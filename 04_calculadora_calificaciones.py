@@ -1,7 +1,7 @@
 
 ''' Un programa que permita al usuario introducir calificaciones de alumnos y calcular el promedio'''
+
 from colorama import Fore, Back, Style
-from tqdm import tqdm
 import time
 
 def calcular_promedio(calificaciones):
