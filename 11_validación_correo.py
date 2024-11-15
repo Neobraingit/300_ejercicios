@@ -1,3 +1,4 @@
+# Comprobar si un correo es válido o no
 
 correo = input('Introduce tu correo electrónico: ')
 
