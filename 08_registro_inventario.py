@@ -1,5 +1,6 @@
 
 # Un programa que permita llevar un registro, con nombres, cantidades y mostrar el inventario actual
+from colorama import Fore,Back,Style
 
 inventario = {}
 
